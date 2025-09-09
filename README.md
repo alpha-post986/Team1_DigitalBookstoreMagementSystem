@@ -1,1 +1,1 @@
-# Team1_DigitalBookstoreMagementSystem
+# Team1_DigitalBookstoreManagementSystem
